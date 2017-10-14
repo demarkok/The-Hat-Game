@@ -1,1 +1,1 @@
-# jvm-course-homework
+# The Hat Game
